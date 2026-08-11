@@ -1,1 +1,2 @@
-# Titan Stream Platform
+# TitanStream
+Welcome to TitanStream!
